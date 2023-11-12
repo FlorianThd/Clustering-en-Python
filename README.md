@@ -15,6 +15,11 @@ Démarche :<br>
 Cela a permis de faire émerger une sélection restreinte de pays où il était pertinent pour l'entreprise de tenter des exportations.<br>
 <br>NB : Le notebook ne fait apparaître que la démarche technique, les conclusions ont été présentées sur un support power point séparé.
 
+Fichiers disponibles dans le repository:<br>
+-*Présentation finale.pdf* --> présentation de nos résultats<br>
+-*Thouraud_Florian_1_preparation* -->exploration et nettoyage des données en Python<br>
+-*Thouraud_Florian_2_clustering_visualisation* --> le clustering en lui-même<br>
+
 ---
 
 👋 Merci de votre lecture !<br>
