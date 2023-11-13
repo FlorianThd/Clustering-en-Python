@@ -17,8 +17,8 @@ Cela a permis de faire émerger une sélection restreinte de pays où il était 
 
 Fichiers disponibles dans le repository:<br>
 -*Présentation finale.pdf* --> présentation de nos résultats<br>
--*Thouraud_Florian_1_preparation* -->exploration et nettoyage des données en Python<br>
--*Thouraud_Florian_2_clustering_visualisation* --> le clustering en lui-même<br>
+-*CLUSTERING* --> Notre notebook comprenant le clustering grâce aux méthodes K-means et CAH<br>
+-*Nettoyage des données* -->exploration et nettoyage des données en Python<br>
 
 ---
 
