@@ -17,7 +17,7 @@ Cela a permis de faire émerger une sélection restreinte de pays où il était 
 
 Fichiers disponibles dans le repository:<br>
 -*Présentation finale.pdf* --> présentation de nos résultats<br>
--*CLUSTERING* --> Notre notebook comprenant le clustering grâce aux méthodes K-means et CAH<br>
+-*CLUSTERING* --> Notre notebook comprenant les clusterings faits grâce aux méthodes K-means et CAH<br>
 -*Nettoyage des données* -->exploration et nettoyage des données en Python<br>
 
 ---
